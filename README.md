@@ -6,9 +6,13 @@ Installation
 
 1. Clone the repository to your local machine:
     git clone https://github.com/GorDavtyan/Bookstore-with-Hibernate.git
+   
 2.Open the project in your preferred Java IDE.
+
 3.Ensure that you have the required dependencies installed, including Hibernate.
+
 4.Set up your database connection by configuring HibernateConfig.java with the appropriate database URL, username, and password.
+
 5.Run the Start.java file to launch the Bookstore Management System.
 
 Usage
